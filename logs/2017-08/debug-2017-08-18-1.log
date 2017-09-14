@@ -1,0 +1,6 @@
+[09:07:48:253] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[09:07:58:458] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[10:00:34:822] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[10:00:39:763] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[10:54:00:075] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[10:54:09:820] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.

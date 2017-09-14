@@ -1,0 +1,1061 @@
+[16:45:35:510] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[16:45:35:611] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[16:45:35:612] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[16:45:35:612] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[16:45:35:613] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[16:45:35:613] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[16:45:35:618] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[16:45:35:631] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[16:45:35:632] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[16:45:35:632] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[16:45:35:632] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[16:45:35:635] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper
+[16:45:35:635] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper
+[16:45:35:689] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserMapper.xml
+[16:45:35:690] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper
+[16:45:35:690] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper/UserMapper.xml
+[16:45:35:691] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper/UserMapper.xml
+[16:45:35:692] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+[16:50:17:192] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[16:50:17:248] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[16:50:17:249] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[16:50:17:249] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[16:50:17:250] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[16:50:17:250] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[16:50:17:255] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[16:50:17:269] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[16:50:17:269] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[16:50:17:269] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[16:50:17:270] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[16:57:31:193] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[16:57:31:248] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[16:57:31:248] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[16:57:31:249] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[16:57:31:249] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[16:57:31:250] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[16:57:31:254] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[16:57:31:268] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[16:57:31:268] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[16:57:31:268] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[16:57:31:268] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:02:31:670] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:02:31:729] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:02:31:729] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:02:31:730] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:02:31:730] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:02:31:731] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:02:31:737] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:02:31:751] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:02:31:751] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:02:31:751] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:02:31:751] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:02:31:778] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:04:21:415] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:04:21:473] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:04:21:473] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:04:21:474] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:04:21:474] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:04:21:475] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:04:21:479] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:04:21:492] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:04:21:493] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:04:21:493] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:04:21:493] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:06:03:468] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:06:03:526] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:06:03:526] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:06:03:526] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:06:03:527] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:06:03:528] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:06:03:533] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:06:03:547] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:06:03:548] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:06:03:548] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:06:03:548] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:08:38:868] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:08:38:934] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:08:38:935] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:08:38:935] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:08:38:936] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:08:38:937] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:08:38:941] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:08:38:956] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:08:38:957] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:08:38:957] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:08:38:957] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:08:38:987] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:12:27:993] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:12:28:058] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:12:28:058] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:12:28:059] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:12:28:060] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:12:28:061] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:12:28:061] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:12:28:062] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:12:28:147] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:12:28:148] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:12:28:148] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:12:28:149] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:12:28:150] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:12:28:151] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:12:28:157] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:12:28:178] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:12:28:180] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:12:28:180] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:12:28:180] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:12:28:472] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:12:28:863] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 421232142.
+[17:12:28:864] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@191b7e0e]
+[17:12:28:866] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: insert into t_user (username,password) values (?,?) 
+[17:12:28:895] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.rollback(JdbcTransaction.java:79) - Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@191b7e0e]
+[17:12:28:896] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@191b7e0e]
+[17:12:28:897] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@191b7e0e]
+[17:12:28:897] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 421232142 to pool.
+[17:14:52:418] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:14:52:486] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:14:52:486] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:14:52:486] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:14:52:487] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:14:52:488] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:14:52:488] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:14:52:489] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:14:52:542] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:14:52:542] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:14:52:543] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:14:52:543] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:14:52:544] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:14:52:545] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:14:52:552] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:14:52:568] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:14:52:568] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:14:52:569] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:14:52:569] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:14:52:697] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:14:52:871] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1749480890.
+[17:14:52:871] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6846f5ba]
+[17:14:52:873] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: insert into t_user (user_name,pass_word) values (?,?) 
+[17:14:52:903] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 测试1(String), 123456(String)
+[17:14:52:944] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.rollback(JdbcTransaction.java:79) - Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@6846f5ba]
+[17:14:52:944] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6846f5ba]
+[17:14:52:945] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6846f5ba]
+[17:14:52:945] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1749480890 to pool.
+[17:16:04:273] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:16:04:341] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:16:04:341] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:16:04:342] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:16:04:342] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:16:04:343] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:16:04:343] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:16:04:343] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:16:04:396] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:16:04:396] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:16:04:397] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:16:04:397] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:16:04:399] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:16:04:399] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:16:04:406] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:16:04:427] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:16:04:428] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:16:04:428] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:16:04:428] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:16:04:556] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:16:04:733] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 982679760.
+[17:16:04:734] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3a9280d0]
+[17:16:04:736] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: insert into t_user (user_name,pass_word) values (?,?) 
+[17:16:04:772] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 测试1(String), 123456(String)
+[17:16:04:816] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==    Updates: 1
+[17:16:04:817] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:69) - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3a9280d0]
+[17:16:04:849] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3a9280d0]
+[17:16:04:850] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3a9280d0]
+[17:16:04:850] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 982679760 to pool.
+[17:16:29:688] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:16:29:743] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:16:29:744] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:16:29:744] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:16:29:745] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:16:29:747] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:16:29:747] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:16:29:748] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:16:29:849] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:16:29:851] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:16:29:851] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:16:29:852] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:16:29:853] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:16:29:854] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:16:29:900] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:16:29:901] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:16:29:901] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:16:29:901] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:16:30:015] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:16:30:184] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1658822909.
+[17:16:30:185] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@62dfa0fd]
+[17:16:30:187] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: insert into t_user (user_name,pass_word) values (?,?) 
+[17:16:30:222] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 测试1(String), 123456(String)
+[17:16:30:261] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==    Updates: 1
+[17:16:30:263] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:69) - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@62dfa0fd]
+[17:16:30:310] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@62dfa0fd]
+[17:16:30:311] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@62dfa0fd]
+[17:16:30:311] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1658822909 to pool.
+[17:16:59:799] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:16:59:857] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:16:59:858] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:16:59:858] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:16:59:859] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:16:59:860] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:16:59:860] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:16:59:861] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:16:59:914] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:16:59:915] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:16:59:915] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:16:59:915] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:16:59:917] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:16:59:918] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:16:59:956] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:16:59:956] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:16:59:957] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:16:59:957] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:17:00:095] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:17:00:259] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 2061259982.
+[17:17:00:260] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7adc54ce]
+[17:17:00:263] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: insert into t_user (user_name,pass_word) values (?,?) 
+[17:17:00:292] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 测试1(String), 123456(String)
+[17:17:00:294] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==    Updates: 1
+[17:17:00:296] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:69) - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7adc54ce]
+[17:17:00:335] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7adc54ce]
+[17:17:00:336] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7adc54ce]
+[17:17:00:336] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 2061259982 to pool.
+[17:17:54:164] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:17:54:228] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:17:54:229] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:17:54:229] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:17:54:230] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:17:54:231] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:17:54:231] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:17:54:231] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:17:54:284] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:17:54:284] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:17:54:285] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:17:54:285] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:17:54:286] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:17:54:287] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:17:54:312] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:17:54:312] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:17:54:313] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:17:54:313] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:17:54:317] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper
+[17:17:54:317] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper
+[17:17:54:318] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserMapper.xml
+[17:17:54:319] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper
+[17:17:54:319] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper/UserMapper.xml
+[17:17:54:319] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper/UserMapper.xml
+[17:17:54:320] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+[17:18:15:657] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:18:15:716] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:18:15:716] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:18:15:717] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:18:15:718] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:18:15:719] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:18:15:720] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:18:15:721] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:18:15:764] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:18:15:765] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:18:15:765] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:18:15:766] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:18:15:767] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:18:15:768] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:18:15:807] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:18:15:807] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:18:15:808] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:18:15:808] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:18:15:811] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper
+[17:18:15:811] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper
+[17:18:15:812] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserMapper.xml
+[17:18:15:812] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper
+[17:18:15:813] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper/UserMapper.xml
+[17:18:15:813] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/mapper/UserMapper.xml
+[17:18:15:814] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+[17:18:53:326] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:18:53:381] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:18:53:382] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:18:53:383] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:18:53:384] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:18:53:385] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:18:53:386] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:18:53:386] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:18:53:442] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:18:53:443] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:18:53:444] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:18:53:444] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:18:53:446] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:18:53:447] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:18:53:479] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:18:53:480] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:18:53:480] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:18:53:480] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:18:53:627] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:18:53:795] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 390324070.
+[17:18:53:795] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1743df66]
+[17:18:53:797] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: insert into t_user (user_name,pass_word) values (?,?) 
+[17:18:53:829] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 测试1(String), 123456(String)
+[17:18:53:831] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==    Updates: 1
+[17:18:53:832] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:69) - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1743df66]
+[17:18:53:920] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1743df66]
+[17:18:53:921] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1743df66]
+[17:18:53:921] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 390324070 to pool.
+[17:24:48:766] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:24:48:813] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:24:48:813] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:24:48:814] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:24:48:814] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:24:48:815] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:24:48:816] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:24:48:816] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:24:48:868] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:24:48:868] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:24:48:869] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:24:48:869] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:24:48:870] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:24:48:870] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:24:48:900] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:24:48:900] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:24:48:901] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:24:48:901] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:24:49:003] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:24:49:154] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1761586552.
+[17:24:49:154] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@68ffad78]
+[17:24:49:157] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: insert into t_user (user_name,pass_word) values (?,?) 
+[17:24:49:194] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 测试1(String), 123456(String)
+[17:24:49:196] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==    Updates: 1
+[17:24:49:197] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:69) - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@68ffad78]
+[17:24:49:258] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@68ffad78]
+[17:24:49:258] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@68ffad78]
+[17:24:49:259] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1761586552 to pool.
+[17:24:49:260] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:24:49:261] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1761586552 from pool.
+[17:24:49:261] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@68ffad78]
+[17:24:49:262] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user 
+[17:24:49:262] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 
+[17:24:49:296] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 8
+[17:24:49:296] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@68ffad78]
+[17:24:49:297] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@68ffad78]
+[17:24:49:297] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1761586552 to pool.
+[17:28:30:886] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:28:30:933] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:28:30:933] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:28:30:934] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:28:30:934] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:28:30:935] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:28:30:936] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:28:30:936] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:28:30:974] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:28:30:975] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:28:30:975] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:28:30:975] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:28:30:977] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:28:30:977] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:28:31:004] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:28:31:004] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:28:31:005] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:28:31:005] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:28:31:114] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:28:31:261] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1910334018.
+[17:28:31:262] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@71dd6242]
+[17:28:31:265] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: insert into t_user (user_name,pass_word) values (?,?) 
+[17:28:31:297] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 测试1(String), 123456(String)
+[17:28:31:299] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==    Updates: 1
+[17:28:31:300] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:69) - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@71dd6242]
+[17:28:31:383] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@71dd6242]
+[17:28:31:384] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@71dd6242]
+[17:28:31:384] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1910334018 to pool.
+[17:36:37:807] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:36:37:864] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:36:37:865] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:36:37:865] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:36:37:866] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:36:37:866] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:36:37:867] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:36:37:867] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:36:37:915] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:36:37:915] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:36:37:916] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:36:37:916] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:36:37:917] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:36:37:918] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:36:37:940] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:36:37:940] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:36:37:940] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:36:37:940] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:36:38:047] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:36:38:185] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1293967512.
+[17:36:38:185] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:36:38:187] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user 
+[17:36:38:213] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 
+[17:36:38:226] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 9
+[17:36:38:226] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:36:38:227] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:36:38:227] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1293967512 to pool.
+[17:37:16:493] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:37:16:551] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:37:16:551] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:37:16:552] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:37:16:552] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:37:16:553] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:37:16:553] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:37:16:554] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:37:16:604] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:37:16:604] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:37:16:604] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:37:16:604] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:37:16:605] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:37:16:606] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:37:16:626] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:37:16:626] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:37:16:626] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:37:16:626] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:37:16:742] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:37:16:890] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 802198841.
+[17:37:16:890] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:892] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user 
+[17:37:16:919] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 
+[17:37:16:933] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 9
+[17:37:16:934] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:934] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:934] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 802198841 to pool.
+[17:37:16:935] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:37:16:935] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 802198841 from pool.
+[17:37:16:935] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:935] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user 
+[17:37:16:936] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 
+[17:37:16:940] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 9
+[17:37:16:940] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:940] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:941] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 802198841 to pool.
+[17:37:16:941] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:37:16:941] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 802198841 from pool.
+[17:37:16:941] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:942] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user 
+[17:37:16:942] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 
+[17:37:16:944] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 9
+[17:37:16:944] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:945] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:945] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 802198841 to pool.
+[17:37:16:945] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:37:16:946] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 802198841 from pool.
+[17:37:16:946] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:946] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user 
+[17:37:16:946] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 
+[17:37:16:948] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 9
+[17:37:16:949] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:949] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:949] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 802198841 to pool.
+[17:37:16:950] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:37:16:950] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 802198841 from pool.
+[17:37:16:950] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:950] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user 
+[17:37:16:951] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 
+[17:37:16:953] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 9
+[17:37:16:953] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:953] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2fd09539]
+[17:37:16:953] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 802198841 to pool.
+[17:39:22:512] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:39:22:570] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:39:22:570] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:39:22:570] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:39:22:571] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:39:22:571] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:39:22:572] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:39:22:572] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:39:22:615] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:39:22:616] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:39:22:616] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:39:22:617] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:39:22:618] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:39:22:619] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:39:22:638] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:39:22:638] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:39:22:638] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:39:22:638] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:39:22:729] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:39:22:868] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1293967512.
+[17:39:22:868] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:870] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:39:22:902] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:39:22:951] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:39:22:952] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:952] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:953] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1293967512 to pool.
+[17:39:22:953] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:39:22:953] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1293967512 from pool.
+[17:39:22:954] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:954] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:39:22:954] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:39:22:955] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:39:22:955] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:956] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:956] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1293967512 to pool.
+[17:39:22:956] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:39:22:956] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1293967512 from pool.
+[17:39:22:957] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:957] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:39:22:957] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:39:22:958] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:39:22:958] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:958] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:958] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1293967512 to pool.
+[17:39:22:959] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:39:22:959] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1293967512 from pool.
+[17:39:22:959] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:960] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:39:22:960] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:39:22:961] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:39:22:961] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:961] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:961] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1293967512 to pool.
+[17:39:22:962] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:39:22:962] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1293967512 from pool.
+[17:39:22:962] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:963] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:39:22:963] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:39:22:964] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:39:22:964] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:964] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4d206098]
+[17:39:22:964] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1293967512 to pool.
+[17:42:34:490] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:42:34:546] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:42:34:546] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:42:34:547] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:42:34:547] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:42:34:548] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:42:34:548] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:42:34:549] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:42:34:602] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:42:34:603] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:42:34:603] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:42:34:603] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:42:34:605] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:42:34:605] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:42:34:625] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:42:34:626] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:42:34:626] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:42:34:626] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:43:02:728] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:43:02:787] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:43:02:787] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:43:02:788] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:43:02:788] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:43:02:789] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:43:02:789] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:43:02:790] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:43:02:834] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:43:02:834] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:43:02:834] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:43:02:835] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:43:02:836] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:43:02:837] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:43:02:857] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:43:02:858] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:43:02:858] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:43:02:858] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:43:02:951] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[17:43:02:955] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:43:03:094] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 2040299614.
+[17:43:03:094] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@799c805e]
+[17:43:03:096] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:43:03:121] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:43:03:133] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:43:03:163] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@799c805e]
+[17:43:03:163] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@799c805e]
+[17:43:03:164] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 2040299614 to pool.
+[17:43:31:169] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:43:31:225] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:43:31:225] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:43:31:226] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:43:31:226] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:43:31:227] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:43:31:227] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:43:31:227] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:43:31:281] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:43:31:281] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:43:31:282] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:43:31:282] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:43:31:283] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 %  com/shuyu/entity/UserBean  java/lang/Object id Ljava/lang/Integer; userName Ljava/lang/String; passWord <init> ()V Code
+[17:43:31:283] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:43:31:303] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:43:31:304] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:43:31:304] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:43:31:304] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:43:31:397] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[17:43:31:401] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:43:31:553] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 874242484.
+[17:43:31:554] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@341be1b4]
+[17:43:31:556] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:43:31:583] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:43:31:598] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:43:31:606] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@341be1b4]
+[17:43:31:606] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@341be1b4]
+[17:43:31:606] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 874242484 to pool.
+[17:46:04:951] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:46:05:007] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:46:05:007] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:46:05:008] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:46:05:008] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:46:05:009] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:46:05:009] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:46:05:010] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:46:05:064] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:46:05:065] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:46:05:065] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:46:05:065] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:46:05:067] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 ,  com/shuyu/entity/UserBean  java/lang/Object  java/io/Serializable serialVersionUID J 
+[17:46:05:067] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:46:05:088] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:46:05:088] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:46:05:089] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:46:05:089] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:46:05:182] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[17:46:05:186] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:46:05:322] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1387590982.
+[17:46:05:323] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@52b4f546]
+[17:46:05:325] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:46:05:356] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:46:05:367] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:46:05:371] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@52b4f546]
+[17:46:05:372] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@52b4f546]
+[17:46:05:372] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1387590982 to pool.
+[17:46:05:418] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[17:46:05:419] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6666666666666666
+[17:46:05:420] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.75
+[17:46:05:421] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.8
+[17:55:47:058] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:55:47:116] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:55:47:116] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:55:47:116] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:55:47:117] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:55:47:118] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:55:47:118] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:55:47:118] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:55:47:171] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:55:47:171] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:55:47:172] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:55:47:172] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:55:47:173] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 ,  com/shuyu/entity/UserBean  java/lang/Object  java/io/Serializable serialVersionUID J 
+[17:55:47:174] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:55:47:197] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:55:47:197] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:55:47:197] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:55:47:198] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:55:47:294] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[17:55:47:298] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:55:47:440] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1330761262.
+[17:55:47:441] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:55:47:442] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:55:47:469] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:55:47:480] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:55:47:484] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:55:47:484] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:55:47:485] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1330761262 to pool.
+[17:55:47:486] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[17:55:47:487] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6666666666666666
+[17:55:47:487] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:55:47:487] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1330761262 from pool.
+[17:55:47:488] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:55:47:488] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: update t_user set user_name=?,pass_word=? where id=? 
+[17:55:47:489] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.rollback(JdbcTransaction.java:79) - Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:55:47:489] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:55:47:490] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:55:47:490] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1330761262 to pool.
+[17:55:47:490] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.75
+[17:55:47:491] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.8
+[17:55:57:743] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:55:57:798] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:55:57:799] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:55:57:799] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:55:57:800] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:55:57:800] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:55:57:800] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:55:57:801] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:55:57:845] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:55:57:845] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:55:57:846] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:55:57:846] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:55:57:848] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 ,  com/shuyu/entity/UserBean  java/lang/Object  java/io/Serializable serialVersionUID J 
+[17:55:57:848] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:55:57:867] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:55:57:867] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:55:57:867] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:55:57:868] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:55:57:974] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[17:55:57:977] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:55:58:115] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 296737202.
+[17:55:58:115] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@11afd9b2]
+[17:55:58:117] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:55:58:142] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:55:58:153] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:55:58:157] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@11afd9b2]
+[17:55:58:157] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@11afd9b2]
+[17:55:58:158] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 296737202 to pool.
+[17:55:58:159] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[17:55:58:160] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6666666666666666
+[17:55:58:160] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:55:58:161] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 296737202 from pool.
+[17:55:58:161] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@11afd9b2]
+[17:55:58:161] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: update t_user set user_name=?,pass_word=? where id=? 
+[17:55:58:162] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.rollback(JdbcTransaction.java:79) - Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@11afd9b2]
+[17:55:58:163] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@11afd9b2]
+[17:55:58:163] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@11afd9b2]
+[17:55:58:163] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 296737202 to pool.
+[17:55:58:164] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.75
+[17:55:58:164] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.8
+[17:56:42:283] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:56:42:339] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:56:42:340] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:56:42:340] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:56:42:340] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:56:42:341] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:56:42:341] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:56:42:342] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:56:42:385] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:56:42:385] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:56:42:386] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:56:42:386] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:56:42:387] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 ,  com/shuyu/entity/UserBean  java/lang/Object  java/io/Serializable serialVersionUID J 
+[17:56:42:387] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:56:42:406] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:56:42:407] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:56:42:407] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:56:42:407] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:56:42:502] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[17:56:42:506] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:56:42:647] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1330761262.
+[17:56:42:648] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:56:42:649] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:56:42:674] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:56:42:686] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:56:42:689] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:56:42:690] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:56:42:690] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1330761262 to pool.
+[17:56:42:692] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[17:56:42:692] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6666666666666666
+[17:56:42:693] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:56:42:693] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1330761262 from pool.
+[17:56:42:693] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:56:42:694] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: update t_user set user_name=?,pass_word=? where id=? 
+[17:56:42:694] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.rollback(JdbcTransaction.java:79) - Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:56:42:695] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:56:42:695] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[17:56:42:695] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1330761262 to pool.
+[17:56:42:696] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.75
+[17:56:42:696] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.8
+[17:59:06:742] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[17:59:06:798] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[17:59:06:798] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[17:59:06:799] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[17:59:06:799] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[17:59:06:800] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[17:59:06:800] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:59:06:800] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:59:06:851] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[17:59:06:852] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[17:59:06:852] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:59:06:852] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[17:59:06:854] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 ,  com/shuyu/entity/UserBean  java/lang/Object  java/io/Serializable serialVersionUID J 
+[17:59:06:854] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[17:59:06:873] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:59:06:874] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:59:06:874] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:59:06:874] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[17:59:06:968] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[17:59:06:972] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:59:07:109] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 310315814.
+[17:59:07:110] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@127f0b26]
+[17:59:07:111] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[17:59:07:136] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[17:59:07:147] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[17:59:07:151] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@127f0b26]
+[17:59:07:151] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@127f0b26]
+[17:59:07:152] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 310315814 to pool.
+[17:59:07:153] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[17:59:07:154] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6666666666666666
+[17:59:07:154] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[17:59:07:155] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 310315814 from pool.
+[17:59:07:155] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@127f0b26]
+[17:59:07:155] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: update t_user set user_name=?,pass_word=? where id=? 
+[17:59:07:156] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.rollback(JdbcTransaction.java:79) - Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@127f0b26]
+[17:59:07:156] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@127f0b26]
+[17:59:07:157] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@127f0b26]
+[17:59:07:157] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 310315814 to pool.
+[17:59:07:157] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.75
+[17:59:07:158] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.8
+[18:00:43:799] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[18:00:43:857] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[18:00:43:857] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[18:00:43:858] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[18:00:43:858] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[18:00:43:860] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[18:00:43:860] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:00:43:861] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:00:43:914] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[18:00:43:914] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:00:43:915] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:00:43:915] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:00:43:916] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 ,  com/shuyu/entity/UserBean  java/lang/Object  java/io/Serializable serialVersionUID J 
+[18:00:43:916] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[18:00:43:936] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:00:43:936] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:00:43:936] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:00:43:936] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:00:44:032] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[18:00:44:036] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:00:44:175] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1330761262.
+[18:00:44:176] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[18:00:44:177] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[18:00:44:202] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[18:00:44:213] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[18:00:44:217] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[18:00:44:217] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[18:00:44:218] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1330761262 to pool.
+[18:00:44:219] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[18:00:44:220] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6666666666666666
+[18:00:44:220] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:00:44:220] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1330761262 from pool.
+[18:00:44:220] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[18:00:44:221] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: update t_user set user_name=?,pass_word=? where id=? 
+[18:00:44:222] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.rollback(JdbcTransaction.java:79) - Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[18:00:44:222] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[18:00:44:222] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4f51ce2e]
+[18:00:44:223] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1330761262 to pool.
+[18:00:44:223] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.75
+[18:00:44:224] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.8
+[18:02:38:020] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[18:02:38:078] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[18:02:38:078] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[18:02:38:079] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[18:02:38:079] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[18:02:38:080] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[18:02:38:080] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:02:38:080] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:02:38:139] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[18:02:38:139] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:02:38:139] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:02:38:140] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:02:38:141] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 ,  com/shuyu/entity/UserBean  java/lang/Object  java/io/Serializable serialVersionUID J 
+[18:02:38:141] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[18:02:38:161] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:02:38:161] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:02:38:161] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:02:38:162] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:02:38:255] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[18:02:38:259] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:02:38:403] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 2040299614.
+[18:02:38:403] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@799c805e]
+[18:02:38:405] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[18:02:38:434] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[18:02:38:446] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[18:02:38:450] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@799c805e]
+[18:02:38:451] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@799c805e]
+[18:02:38:451] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 2040299614 to pool.
+[18:02:38:452] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[18:02:38:453] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6666666666666666
+[18:02:38:454] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:02:38:454] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 2040299614 from pool.
+[18:02:38:454] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@799c805e]
+[18:02:38:454] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: update t_user set user_name=?,pass_word=? where id=? 
+[18:02:38:455] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.rollback(JdbcTransaction.java:79) - Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@799c805e]
+[18:02:38:456] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@799c805e]
+[18:02:38:456] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@799c805e]
+[18:02:38:456] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 2040299614 to pool.
+[18:02:38:457] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.75
+[18:02:38:457] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.8
+[18:04:25:037] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[18:04:25:094] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[18:04:25:094] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[18:04:25:095] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[18:04:25:095] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[18:04:25:096] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[18:04:25:096] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:04:25:096] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:04:25:142] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[18:04:25:143] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:04:25:143] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:04:25:144] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:04:25:145] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 ,  com/shuyu/entity/UserBean  java/lang/Object  java/io/Serializable serialVersionUID J 
+[18:04:25:145] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[18:04:25:164] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:04:25:165] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:04:25:165] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:04:25:165] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:04:25:300] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[18:04:25:304] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:04:25:439] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 644052144.
+[18:04:25:439] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@266374b0]
+[18:04:25:441] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[18:04:25:488] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[18:04:25:501] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[18:04:25:505] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@266374b0]
+[18:04:25:505] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@266374b0]
+[18:04:25:506] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 644052144 to pool.
+[18:04:25:507] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[18:04:25:508] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6666666666666666
+[18:04:25:510] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:04:25:510] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 644052144 from pool.
+[18:04:25:510] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@266374b0]
+[18:04:25:511] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: update t_user SET user_name=?,pass_word=? WHERE id=? 
+[18:04:25:512] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.rollback(JdbcTransaction.java:79) - Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@266374b0]
+[18:04:25:512] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@266374b0]
+[18:04:25:512] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@266374b0]
+[18:04:25:512] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 644052144 to pool.
+[18:04:25:513] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.75
+[18:04:25:514] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.8
+[18:06:39:270] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[18:06:39:326] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[18:06:39:327] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[18:06:39:327] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[18:06:39:328] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[18:06:39:328] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[18:06:39:329] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:06:39:329] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:06:39:380] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[18:06:39:380] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:06:39:381] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:06:39:381] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:06:39:382] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 ,  com/shuyu/entity/UserBean  java/lang/Object  java/io/Serializable serialVersionUID J 
+[18:06:39:383] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[18:06:39:402] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:06:39:403] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:06:39:403] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:06:39:403] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:06:39:506] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[18:06:39:509] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:06:39:647] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1067276977.
+[18:06:39:647] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3f9d5ab1]
+[18:06:39:649] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[18:06:39:675] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[18:06:39:686] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[18:06:39:690] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3f9d5ab1]
+[18:06:39:690] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3f9d5ab1]
+[18:06:39:690] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1067276977 to pool.
+[18:06:39:692] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[18:06:39:692] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6666666666666666
+[18:06:39:693] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:06:39:693] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1067276977 from pool.
+[18:06:39:694] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3f9d5ab1]
+[18:06:39:694] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: update t_user SET user_name=?,pass_word=? WHERE id=? 
+[18:06:39:694] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 测试5(String), 123456(String), 5(Integer)
+[18:06:39:756] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==    Updates: 1
+[18:06:39:757] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:69) - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3f9d5ab1]
+[18:06:39:802] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3f9d5ab1]
+[18:06:39:803] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3f9d5ab1]
+[18:06:39:803] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1067276977 to pool.
+[18:06:39:803] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[18:06:39:804] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:06:39:804] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1067276977 from pool.
+[18:06:39:804] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3f9d5ab1]
+[18:06:39:804] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[18:06:39:805] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[18:06:39:806] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[18:06:39:806] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3f9d5ab1]
+[18:06:39:806] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3f9d5ab1]
+[18:06:39:807] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1067276977 to pool.
+[18:06:39:807] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6
+[18:07:01:907] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[18:07:01:963] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[18:07:01:964] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[18:07:01:964] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[18:07:01:965] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[18:07:01:966] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[18:07:01:966] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:07:01:966] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:07:02:018] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[18:07:02:019] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:07:02:019] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:07:02:019] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:07:02:020] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 ,  com/shuyu/entity/UserBean  java/lang/Object  java/io/Serializable serialVersionUID J 
+[18:07:02:021] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[18:07:02:040] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:07:02:040] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:07:02:040] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:07:02:041] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:07:02:141] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[18:07:02:145] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:07:02:285] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 166271213.
+[18:07:02:286] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@9e918ed]
+[18:07:02:288] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[18:07:02:317] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[18:07:02:328] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[18:07:02:332] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@9e918ed]
+[18:07:02:333] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@9e918ed]
+[18:07:02:333] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 166271213 to pool.
+[18:07:02:334] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[18:07:02:335] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6666666666666666
+[18:07:02:336] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:07:02:336] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 166271213 from pool.
+[18:07:02:336] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@9e918ed]
+[18:07:02:337] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: update t_user SET user_name=?,pass_word=? WHERE id=? 
+[18:07:02:337] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 测试5(String), 123456(String), 5(Integer)
+[18:07:02:338] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==    Updates: 1
+[18:07:02:338] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:69) - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@9e918ed]
+[18:07:02:402] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@9e918ed]
+[18:07:02:403] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@9e918ed]
+[18:07:02:404] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 166271213 to pool.
+[18:07:02:404] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[18:07:02:405] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:07:02:405] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 166271213 from pool.
+[18:07:02:406] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@9e918ed]
+[18:07:02:406] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[18:07:02:407] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[18:07:02:409] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[18:07:02:410] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@9e918ed]
+[18:07:02:410] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@9e918ed]
+[18:07:02:411] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 166271213 to pool.
+[18:07:02:412] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6
+[18:07:37:615] [DEBUG] - org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+[18:07:37:674] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VFS
+[18:07:37:674] [DEBUG] - org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) - JBoss 6 VFS API is not available in this environment.
+[18:07:37:674] [DEBUG] - org.apache.ibatis.io.VFS.getClass(VFS.java:109) - Class not found: org.jboss.vfs.VirtualFile
+[18:07:37:675] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:70) - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[18:07:37:676] [DEBUG] - org.apache.ibatis.io.VFS.getInstance(VFS.java:84) - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[18:07:37:676] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:07:37:676] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:07:37:724] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: UserBean.class
+[18:07:37:724] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) - Listing file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity
+[18:07:37:724] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) - Find JAR URL: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:07:37:724] [DEBUG] - org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) - Not a JAR: file:/E:/shuyu.wang/workspace/Mybatis/bin/com/shuyu/entity/UserBean.class
+[18:07:37:726] [DEBUG] - org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) - Reader entry: 漱壕   3 ,  com/shuyu/entity/UserBean  java/lang/Object  java/io/Serializable serialVersionUID J 
+[18:07:37:726] [DEBUG] - org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) - Checking to see if class com.shuyu.entity.UserBean matches criteria [is assignable to Object]
+[18:07:37:746] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:07:37:746] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:07:37:746] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:07:37:747] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) - PooledDataSource forcefully closed/removed all connections.
+[18:07:37:846] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.0
+[18:07:37:851] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:07:37:999] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) - Created connection 1940732695.
+[18:07:38:000] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@73ad3b17]
+[18:07:38:002] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[18:07:38:027] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[18:07:38:038] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[18:07:38:043] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@73ad3b17]
+[18:07:38:043] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@73ad3b17]
+[18:07:38:043] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1940732695 to pool.
+[18:07:38:045] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[18:07:38:046] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6666666666666666
+[18:07:38:047] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:07:38:047] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1940732695 from pool.
+[18:07:38:047] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@73ad3b17]
+[18:07:38:047] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: update t_user SET user_name=?,pass_word=? WHERE id=? 
+[18:07:38:048] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 测试5(String), 123456(String), 5(Integer)
+[18:07:38:048] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==    Updates: 1
+[18:07:38:049] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:69) - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@73ad3b17]
+[18:07:38:113] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@73ad3b17]
+[18:07:38:113] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@73ad3b17]
+[18:07:38:114] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1940732695 to pool.
+[18:07:38:114] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.5
+[18:07:38:114] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:136) - Opening JDBC Connection
+[18:07:38:114] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:379) - Checked out connection 1940732695 from pool.
+[18:07:38:115] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:100) - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@73ad3b17]
+[18:07:38:115] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==>  Preparing: select * from t_user where id=? 
+[18:07:38:115] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - ==> Parameters: 5(Integer)
+[18:07:38:118] [DEBUG] - org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:145) - <==      Total: 1
+[18:07:38:118] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:122) - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@73ad3b17]
+[18:07:38:119] [DEBUG] - org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:90) - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@73ad3b17]
+[18:07:38:119] [DEBUG] - org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:344) - Returned connection 1940732695 to pool.
+[18:07:38:119] [DEBUG] - org.apache.ibatis.cache.decorators.LoggingCache.getObject(LoggingCache.java:62) - Cache Hit Ratio [com.shuyu.dao.UserMapper]: 0.6
